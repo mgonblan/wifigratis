@@ -1,0 +1,7 @@
+{
+  "name": "wifigratis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
